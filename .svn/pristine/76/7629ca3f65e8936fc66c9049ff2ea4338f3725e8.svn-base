@@ -1,0 +1,1 @@
+cmd_/home/aliang/Desktop/cs552/module.ko := ld -r -m elf_i386 -T /usr/src/kernels/2.6.35.9-64.fc14.i686/scripts/module-common.lds --build-id -o /home/aliang/Desktop/cs552/module.ko /home/aliang/Desktop/cs552/module.o /home/aliang/Desktop/cs552/module.mod.o
